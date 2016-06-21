@@ -52,7 +52,7 @@ def backwards_parrot(phrase)
   puts happy_parrot(phrase).reverse
 end
 
-backwards_parrot("talking backwards")
+backwards_parrot("Abby Solit")
 
 # The spell has been broken and everyone is speaking normally again. The parrots are really excited about it though - make them shout in all caps.
 def shout_parrot(phrase)
